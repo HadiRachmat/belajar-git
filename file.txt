@@ -4,3 +4,5 @@ merubah file1
 melakukan perubahan pada feature 1
 
 feature a
+feature b
+
