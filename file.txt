@@ -2,3 +2,5 @@ menambah file 1
 merubah file1 
 
 melakukan perubahan pada feature 1
+
+feature b
