@@ -1,3 +1,7 @@
 menmabah fiture di branch feature/3
 
 menambah text di feature/b
+
+feature a
+feature b
+feature c
